@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="timer">Timer</string>
+    <string name="back">Back</string>
+    <string name="Hour">Hours</string>
+    <string name="Minute">Minutes</string>
+    <string name="Second">Seconds</string>
+    <string-array name="minute">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
